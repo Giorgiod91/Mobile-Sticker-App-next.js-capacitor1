@@ -3,6 +3,9 @@
 created with Next.js and capacitor
 
 
+![Alt text](giphy-3.gif)
+
+
 
 
 - [Next.js](https://nextjs.org)
